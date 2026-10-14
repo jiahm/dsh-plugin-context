@@ -1,0 +1,3 @@
+- insert:
+    - id: context-visualizer-client
+      name: dsh-plugin-context-client

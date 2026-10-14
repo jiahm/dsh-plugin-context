@@ -1,0 +1,6 @@
+{
+  "extends": "../../../tsconfig.base.client.json",
+  "compilerOptions": { "rootDir": "src", "outDir": "lib/types" },
+  "references": [{ "path": "../../host/context-visualizer" }],
+  "include": ["src/**/*.ts", "src/**/*.tsx"]
+}

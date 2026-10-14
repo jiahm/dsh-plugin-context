@@ -1,0 +1,3 @@
+- insert:
+    - id: context-visualizer-host
+      name: dsh-plugin-context-host
